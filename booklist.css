@@ -1,0 +1,25 @@
+.success .error {
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  border-style: solid;
+  padding:2px;
+  border-color:green;
+  color:green;
+  border-width: 2px;
+  border-radius: 5px;
+  
+}
+
+.error {
+  border-style: solid;
+  padding:2px;
+  border-color: red;
+  color:red;
+  border-width: 2px;
+  border-radius: 5px;
+  
+}
